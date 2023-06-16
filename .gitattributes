@@ -1,1 +1,2 @@
 AutoBot/Autobot/API/Trained_Models/color_model.h5 filter=lfs diff=lfs merge=lfs -text
+AutoBot/Autobot/API/Trained_Models/Yolov4/yolov4-ANPR.weights filter=lfs diff=lfs merge=lfs -text
