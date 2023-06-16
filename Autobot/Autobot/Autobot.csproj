@@ -1,0 +1,101 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\ui\face.jpg" />
+    <None Include="wwwroot\ui\face1.png" />
+    <None Include="wwwroot\ui\face10.jpg" />
+    <None Include="wwwroot\ui\face11.jpg" />
+    <None Include="wwwroot\ui\face12.webp" />
+    <None Include="wwwroot\ui\face13.jpg" />
+    <None Include="wwwroot\ui\face2.png" />
+    <None Include="wwwroot\ui\face3.png" />
+    <None Include="wwwroot\ui\face4.jpg" />
+    <None Include="wwwroot\ui\face4.webp" />
+    <None Include="wwwroot\ui\face5.webp" />
+    <None Include="wwwroot\ui\face7.jpg" />
+    <None Include="wwwroot\ui\face8.html" />
+    <None Include="wwwroot\ui\face8.jpg" />
+    <None Include="wwwroot\ui\face8_files\6f6ad850a31e051d40d309f675df27e2.jpg" />
+    <None Include="wwwroot\ui\face8_files\app.html" />
+    <None Include="wwwroot\ui\face8_files\cb=gapi.loaded_0" />
+    <None Include="wwwroot\ui\face8_files\dark_thumbnail2.png" />
+    <None Include="wwwroot\ui\face8_files\device_default_thumbnail2.png" />
+    <None Include="wwwroot\ui\face8_files\faviconV2" />
+    <None Include="wwwroot\ui\face8_files\faviconV2%281%29" />
+    <None Include="wwwroot\ui\face8_files\images" />
+    <None Include="wwwroot\ui\face8_files\images%281%29" />
+    <None Include="wwwroot\ui\face8_files\images%2810%29" />
+    <None Include="wwwroot\ui\face8_files\images%2811%29" />
+    <None Include="wwwroot\ui\face8_files\images%2812%29" />
+    <None Include="wwwroot\ui\face8_files\images%2813%29" />
+    <None Include="wwwroot\ui\face8_files\images%2814%29" />
+    <None Include="wwwroot\ui\face8_files\images%2815%29" />
+    <None Include="wwwroot\ui\face8_files\images%2816%29" />
+    <None Include="wwwroot\ui\face8_files\images%2817%29" />
+    <None Include="wwwroot\ui\face8_files\images%2818%29" />
+    <None Include="wwwroot\ui\face8_files\images%2819%29" />
+    <None Include="wwwroot\ui\face8_files\images%282%29" />
+    <None Include="wwwroot\ui\face8_files\images%2820%29" />
+    <None Include="wwwroot\ui\face8_files\images%2821%29" />
+    <None Include="wwwroot\ui\face8_files\images%2822%29" />
+    <None Include="wwwroot\ui\face8_files\images%2823%29" />
+    <None Include="wwwroot\ui\face8_files\images%2824%29" />
+    <None Include="wwwroot\ui\face8_files\images%2825%29" />
+    <None Include="wwwroot\ui\face8_files\images%2826%29" />
+    <None Include="wwwroot\ui\face8_files\images%2827%29" />
+    <None Include="wwwroot\ui\face8_files\images%2828%29" />
+    <None Include="wwwroot\ui\face8_files\images%2829%29" />
+    <None Include="wwwroot\ui\face8_files\images%283%29" />
+    <None Include="wwwroot\ui\face8_files\images%2830%29" />
+    <None Include="wwwroot\ui\face8_files\images%2831%29" />
+    <None Include="wwwroot\ui\face8_files\images%2832%29" />
+    <None Include="wwwroot\ui\face8_files\images%2833%29" />
+    <None Include="wwwroot\ui\face8_files\images%2834%29" />
+    <None Include="wwwroot\ui\face8_files\images%2835%29" />
+    <None Include="wwwroot\ui\face8_files\images%2836%29" />
+    <None Include="wwwroot\ui\face8_files\images%2837%29" />
+    <None Include="wwwroot\ui\face8_files\images%2838%29" />
+    <None Include="wwwroot\ui\face8_files\images%2839%29" />
+    <None Include="wwwroot\ui\face8_files\images%284%29" />
+    <None Include="wwwroot\ui\face8_files\images%285%29" />
+    <None Include="wwwroot\ui\face8_files\images%286%29" />
+    <None Include="wwwroot\ui\face8_files\images%287%29" />
+    <None Include="wwwroot\ui\face8_files\images%288%29" />
+    <None Include="wwwroot\ui\face8_files\images%289%29" />
+    <None Include="wwwroot\ui\face8_files\light_thumbnail2.png" />
+    <None Include="wwwroot\ui\face8_files\m=_b,_tp" />
+    <None Include="wwwroot\ui\face8_files\m=_b,_tp%281%29" />
+    <None Include="wwwroot\ui\face8_files\rs=AA2YrTshJ7rMgELB7P1bkV0inIKSumTmkw" />
+    <None Include="wwwroot\ui\face8_files\rs=AA2YrTsnLAdAgt1VWQcVq_eeK8BYToqDWg" />
+    <None Include="wwwroot\ui\face8_files\unnamed.png" />
+    <None Include="wwwroot\ui\face9.jpg" />
+    <None Include="wwwroot\ui\favicon.ico" />
+    <None Include="wwwroot\ui\HaveAGreatTime.m4a" />
+    <None Include="wwwroot\ui\index.html" />
+    <None Include="wwwroot\ui\logo192.png" />
+    <None Include="wwwroot\ui\logo512.png" />
+    <None Include="wwwroot\ui\NY.jpg" />
+    <None Include="wwwroot\ui\orel.jpg" />
+    <None Include="wwwroot\ui\ParisSelfie.jpg" />
+    <None Include="wwwroot\ui\RandomSelfie.jpg" />
+    <None Include="wwwroot\ui\robots.txt" />
+    <None Include="wwwroot\ui\static\css\main.583d21ce.css" />
+    <None Include="wwwroot\ui\static\css\main.583d21ce.css.map" />
+    <None Include="wwwroot\ui\static\js\main.25216014.js" />
+    <None Include="wwwroot\ui\static\js\main.25216014.js.LICENSE.txt" />
+    <None Include="wwwroot\ui\static\js\main.25216014.js.map" />
+    <None Include="wwwroot\ui\static\media\BackgroundPic.8cae72ed9b75d8de64b0.jpg" />
+    <None Include="wwwroot\ui\static\media\bootstrap-icons.4753c5ba57962b4d7bf8.woff" />
+    <None Include="wwwroot\ui\static\media\bootstrap-icons.6d63d0501e5ed7b79dab.woff2" />
+    <None Include="wwwroot\ui\TLV.webp" />
+    <None Include="wwwroot\ui\video.mp4" />
+    <None Include="wwwroot\ui\Wave.mp4" />
+  </ItemGroup>
+
+</Project>

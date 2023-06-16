@@ -1,0 +1,733 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\Autobot.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Autobot.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\build\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\favicon.ico",
+      "PackagePath": "staticwebassets\\build\\favicon.ico"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\index.html",
+      "PackagePath": "staticwebassets\\build\\index.html"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\logo192.png",
+      "PackagePath": "staticwebassets\\build\\logo192.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\logo512.png",
+      "PackagePath": "staticwebassets\\build\\logo512.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\manifest.json",
+      "PackagePath": "staticwebassets\\build\\manifest.json"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\css\\main.583d21ce.css",
+      "PackagePath": "staticwebassets\\build\\static\\css\\main.583d21ce.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\css\\main.583d21ce.css.map",
+      "PackagePath": "staticwebassets\\build\\static\\css\\main.583d21ce.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\js\\main.25216014.js",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.25216014.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\js\\main.25216014.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.25216014.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\js\\main.25216014.js.map",
+      "PackagePath": "staticwebassets\\build\\static\\js\\main.25216014.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\media\\BackgroundPic.8cae72ed9b75d8de64b0.jpg",
+      "PackagePath": "staticwebassets\\build\\static\\media\\BackgroundPic.8cae72ed9b75d8de64b0.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\media\\bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+      "PackagePath": "staticwebassets\\build\\static\\media\\bootstrap-icons.4753c5ba57962b4d7bf8.woff"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\build\\static\\media\\bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+      "PackagePath": "staticwebassets\\build\\static\\media\\bootstrap-icons.6d63d0501e5ed7b79dab.woff2"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\react\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\index.html",
+      "PackagePath": "staticwebassets\\react\\index.html"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\manifest.json",
+      "PackagePath": "staticwebassets\\react\\manifest.json"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\robots.txt",
+      "PackagePath": "staticwebassets\\react\\robots.txt"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\css\\main.583d21ce.css",
+      "PackagePath": "staticwebassets\\react\\static\\css\\main.583d21ce.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\css\\main.583d21ce.css.map",
+      "PackagePath": "staticwebassets\\react\\static\\css\\main.583d21ce.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\js\\main.25216014.js",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.25216014.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\js\\main.25216014.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.25216014.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\js\\main.25216014.js.map",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.25216014.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\media\\BackgroundPic.8cae72ed9b75d8de64b0.jpg",
+      "PackagePath": "staticwebassets\\react\\static\\media\\BackgroundPic.8cae72ed9b75d8de64b0.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\media\\bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+      "PackagePath": "staticwebassets\\react\\static\\media\\bootstrap-icons.4753c5ba57962b4d7bf8.woff"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\react\\static\\media\\bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+      "PackagePath": "staticwebassets\\react\\static\\media\\bootstrap-icons.6d63d0501e5ed7b79dab.woff2"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\HaveAGreatTime.m4a",
+      "PackagePath": "staticwebassets\\ui\\HaveAGreatTime.m4a"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\NY.jpg",
+      "PackagePath": "staticwebassets\\ui\\NY.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\ParisSelfie.jpg",
+      "PackagePath": "staticwebassets\\ui\\ParisSelfie.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\RandomSelfie.jpg",
+      "PackagePath": "staticwebassets\\ui\\RandomSelfie.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\TLV.webp",
+      "PackagePath": "staticwebassets\\ui\\TLV.webp"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\Wave.mp4",
+      "PackagePath": "staticwebassets\\ui\\Wave.mp4"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\ui\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face.jpg",
+      "PackagePath": "staticwebassets\\ui\\face.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face1.png",
+      "PackagePath": "staticwebassets\\ui\\face1.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face10.jpg",
+      "PackagePath": "staticwebassets\\ui\\face10.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face11.jpg",
+      "PackagePath": "staticwebassets\\ui\\face11.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face12.webp",
+      "PackagePath": "staticwebassets\\ui\\face12.webp"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face13.jpg",
+      "PackagePath": "staticwebassets\\ui\\face13.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face2.png",
+      "PackagePath": "staticwebassets\\ui\\face2.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face3.png",
+      "PackagePath": "staticwebassets\\ui\\face3.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face4.jpg",
+      "PackagePath": "staticwebassets\\ui\\face4.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face4.webp",
+      "PackagePath": "staticwebassets\\ui\\face4.webp"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face5.webp",
+      "PackagePath": "staticwebassets\\ui\\face5.webp"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face7.jpg",
+      "PackagePath": "staticwebassets\\ui\\face7.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8.html",
+      "PackagePath": "staticwebassets\\ui\\face8.html"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8.jpg",
+      "PackagePath": "staticwebassets\\ui\\face8.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\6f6ad850a31e051d40d309f675df27e2.jpg",
+      "PackagePath": "staticwebassets\\ui\\face8_files\\6f6ad850a31e051d40d309f675df27e2.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\app.html",
+      "PackagePath": "staticwebassets\\ui\\face8_files\\app.html"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\cb=gapi.loaded_0",
+      "PackagePath": "staticwebassets\\ui\\face8_files\\cb=gapi.loaded_0"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\dark_thumbnail2.png",
+      "PackagePath": "staticwebassets\\ui\\face8_files\\dark_thumbnail2.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\device_default_thumbnail2.png",
+      "PackagePath": "staticwebassets\\ui\\face8_files\\device_default_thumbnail2.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\faviconV2",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\faviconV2(1)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(1)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(10)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(11)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(12)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(13)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(14)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(15)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(16)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(17)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(18)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(19)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(2)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(20)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(21)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(22)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(23)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(24)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(25)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(26)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(27)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(28)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(29)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(3)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(30)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(31)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(32)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(33)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(34)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(35)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(36)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(37)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(38)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(39)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(4)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(5)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(6)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(7)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(8)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\images(9)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\light_thumbnail2.png",
+      "PackagePath": "staticwebassets\\ui\\face8_files\\light_thumbnail2.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\m=_b,_tp",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\m=_b,_tp(1)",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\rs=AA2YrTshJ7rMgELB7P1bkV0inIKSumTmkw",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\rs=AA2YrTsnLAdAgt1VWQcVq_eeK8BYToqDWg",
+      "PackagePath": "staticwebassets\\ui\\face8_files"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face8_files\\unnamed.png",
+      "PackagePath": "staticwebassets\\ui\\face8_files\\unnamed.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\face9.jpg",
+      "PackagePath": "staticwebassets\\ui\\face9.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\favicon.ico",
+      "PackagePath": "staticwebassets\\ui\\favicon.ico"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\index.html",
+      "PackagePath": "staticwebassets\\ui\\index.html"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\logo192.png",
+      "PackagePath": "staticwebassets\\ui\\logo192.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\logo512.png",
+      "PackagePath": "staticwebassets\\ui\\logo512.png"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\manifest.json",
+      "PackagePath": "staticwebassets\\ui\\manifest.json"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\orel.jpg",
+      "PackagePath": "staticwebassets\\ui\\orel.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\robots.txt",
+      "PackagePath": "staticwebassets\\ui\\robots.txt"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\css\\main.583d21ce.css",
+      "PackagePath": "staticwebassets\\ui\\static\\css\\main.583d21ce.css"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\css\\main.583d21ce.css.map",
+      "PackagePath": "staticwebassets\\ui\\static\\css\\main.583d21ce.css.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\js\\main.25216014.js",
+      "PackagePath": "staticwebassets\\ui\\static\\js\\main.25216014.js"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\js\\main.25216014.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\ui\\static\\js\\main.25216014.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\js\\main.25216014.js.map",
+      "PackagePath": "staticwebassets\\ui\\static\\js\\main.25216014.js.map"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\media\\BackgroundPic.8cae72ed9b75d8de64b0.jpg",
+      "PackagePath": "staticwebassets\\ui\\static\\media\\BackgroundPic.8cae72ed9b75d8de64b0.jpg"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\media\\bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+      "PackagePath": "staticwebassets\\ui\\static\\media\\bootstrap-icons.4753c5ba57962b4d7bf8.woff"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\static\\media\\bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+      "PackagePath": "staticwebassets\\ui\\static\\media\\bootstrap-icons.6d63d0501e5ed7b79dab.woff2"
+    },
+    {
+      "Id": "C:\\project\\autobot\\Autobot\\Autobot\\wwwroot\\ui\\video.mp4",
+      "PackagePath": "staticwebassets\\ui\\video.mp4"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Autobot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Autobot.props",
+      "PackagePath": "build\\Autobot.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Autobot.props",
+      "PackagePath": "buildMultiTargeting\\Autobot.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Autobot.props",
+      "PackagePath": "buildTransitive\\Autobot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

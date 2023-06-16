@@ -1,0 +1,128 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "How are you",
+        "Is anyone there?",
+        "Good day"
+      ],
+      "responses": [
+        "Hello! How may I assist you with vehicle plate recognition?",
+        "Hi there! What can I do for you today?",
+        "Good day! How may I help you with license plate identification?",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "plate_recognition",
+      "patterns": [
+        "Can you recognize this plate?",
+        "Identify this license plate",
+        "What is the plate number?",
+        "What is the registration number?",
+        "Scan this plate",
+        "Plate",
+        "car",
+        "vehicle",
+        "Check this license plate",
+        "Check this license plate",
+        "Car plate?",
+        "Automobile plate?",
+        "Vehicle plate?",
+        "Sedan plate?",
+        "SUV plate?",
+        "Convertible plate?",
+        "Station wagon plate?",
+        "Coupe plate?",
+        "Hatchback plate?"
+      ],
+      "responses": [
+        "Sure, please upload an image of the license plate",
+        "Please provide me with an image of the license plate",
+        "I can recognize the plate for you. Please upload an image"
+      ]
+    },
+    {
+      "tag": "plate_not_found",
+      "patterns": [
+        "Sorry, I couldn't find the plate",
+        "I'm having trouble recognizing the plate",
+        "The plate isn't clear enough",
+        "I can't read the plate"
+      ],
+      "responses": [
+        "I'm sorry to hear that. Can you please try uploading a clearer image of the plate?",
+        "I apologize for the inconvenience. Please make sure the plate is in focus and well-lit before uploading another image.",
+        "No problem, we can try again. Please upload a new image of the plate and make sure it's clear and not obstructed."
+      ]
+    },
+    {
+      "tag": "plate_found",
+      "patterns": [
+        "Yes, that's the plate",
+        "The plate number is correct",
+        "You found the right plate"
+      ],
+      "responses": [
+        "Great! I'm glad I could assist you.",
+        "That's good news! Is there anything else I can help you with?",
+        "Excellent! Don't hesitate to ask if you have any other questions."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you",
+        "Thanks",
+        "Great, thank you",
+        "Appreciate your help",
+        "Thanks for your assistance"
+      ],
+      "responses": [
+        "You're welcome! It was my pleasure to assist you.",
+        "Anytime! Let me know if you need any further assistance.",
+        "Glad to help! Have a great day!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "Bye",
+        "See you later",
+        "Thanks, bye",
+        "Take care"
+      ],
+      "responses": [
+        "Goodbye! Have a nice day!",
+        "Bye! Come back soon if you need any further assistance.",
+        "Take care! See you later.",
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.",
+        "Sure, here's one: Why don't scientists trust atoms? Because they make up everything!"
+      ]
+    }
+  ]
+}
+
