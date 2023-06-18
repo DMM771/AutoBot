@@ -38,6 +38,10 @@ namespace Chat_Api.Controllers
                     {
                         string errors = errorReader.ReadToEnd();
                         Console.WriteLine("Error output: " + errors);
+                        if (erros!=""){
+                            var l = new List<TextResponse>();
+                            return Ok(l);
+                        }
                     }
                     var l = new List<TextResponse>();
                     l.Add(new TextResponse() { response = output });
