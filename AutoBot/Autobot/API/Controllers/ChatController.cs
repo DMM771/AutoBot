@@ -191,8 +191,17 @@ namespace Chat_Api.Controllers
                         response.EnsureSuccessStatusCode();
                         var result = await response.Content.ReadAsStringAsync();
                         var l = new List<TextResponse>();
-                        l.Add(new TextResponse() { response = result });
-                        return Ok(l);
+                        int index = result.IndexOf(substrings[1]);
+                        int count = 0;
+                        while (index != -1)
+                        {
+                            count++;
+                            index = result.IndexOf(substrings[1], index + substrings[1].Length);
+                        }
+                        if (count == 4)
+                        {
+                            l.Add(new TextResponse() { response = result });
+                        }                        return Ok(l);
                     }
                     else
                     {
