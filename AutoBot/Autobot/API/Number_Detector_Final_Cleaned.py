@@ -108,8 +108,8 @@ def preprocess_plate_hist_angle_bin(img):
     # _, plate_img_binary = cv2.threshold(plate_img_gray, 95, 255, cv2.THRESH_BINARY_INV)
 
     plate_img_binary = cv2.bitwise_not(plate_img_gray)
-    block_size = 191  # Size of a pixel neighborhood that is used to calculate a threshold value
-    c = 1  # Constant subtracted from the mean
+    block_size = 91  # Size of a pixel neighborhood that is used to calculate a threshold value
+    c = -10  # Constant subtracted from the mean
     plate_img_binary = cv2.adaptiveThreshold(plate_img_binary, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY_INV,
                                              block_size, c)
 
@@ -297,7 +297,7 @@ def start(img, car_box, plate_box):
     cv2.rectangle(img, (xc, yc), (xc + wc, yc + hc), (0, 255, 0), 2)
     plate_img_hist = fully_process_plate(plate_img)
     (numLabels, labels, stats, _) = cv2.connectedComponentsWithStats(plate_img_hist, 8, cv2.CV_32S)
-    min_pixel_threshold = 14000
+    min_pixel_threshold = 12500
     answers, original_boxes, component_images = get_components(min_pixel_threshold, numLabels, labels, stats)
     if presentation_mode == 1:
         plt.figure(figsize=(1 * len(component_images), 4))
