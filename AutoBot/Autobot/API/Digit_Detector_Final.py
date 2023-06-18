@@ -5,10 +5,10 @@ from keras.models import load_model
 # Load the trained model
 model = load_model('Trained_Models/Digit_my_model.h5')
 
-# Now you can use the loaded model to make predictions
+# load model to make predictions
 final = []
 
-
+# here we predict
 def predict_digit(img_path):
     # Load the image file
     img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
