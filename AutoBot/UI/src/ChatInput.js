@@ -77,6 +77,7 @@ function ChatInput({setListMessages}) {
                         content: "I'm sorry but I can't detect the car from this image, Please send a new image"
                     }
                     setListMessages(image, add);
+                    fileInput.current.value = null
                     return
                 }
                 let addValue = data.map((item, key) => {
